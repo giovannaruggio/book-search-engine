@@ -13,7 +13,7 @@ This project demonstrates a refactor of an existing RESTful API to a GraphQL API
 ## Installaion
 
 - Heroku Deployed Link
-    - https://gooogle-book-search.herokuapp.com/
+    - 
 
 ## Visuals
 
